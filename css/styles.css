@@ -81,7 +81,7 @@ body {
 
 .header {
     background-color: var(--secondary-color);
-    border-bottom: var(--ninth-color);
+    border-bottom: 1px solid var(--ninth-color);
 }
 .header-container {
     display: flex;
