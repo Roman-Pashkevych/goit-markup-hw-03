@@ -314,7 +314,7 @@ body {
 .logo-footer:focus {
     color: var(--accent-color);
 }
-.contact-footer-list {
+.contact-footer {
     margin-top: 20px;
 }
 .contact-footer-item:not(:first-child) {
